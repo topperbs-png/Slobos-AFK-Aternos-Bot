@@ -1,21 +1,21 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AFKBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "AQURSMP.aternos.me",
     "port": 36263,
-    "version": "",
+    "version": 1.21.11,
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -3108,
+    "y": 163,
+    "z": -1662,
   },
   "utils": {
     "auto-auth": {
